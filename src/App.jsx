@@ -8,7 +8,7 @@ class App extends Component {
     super(props);
     this.state = {
       query: '',
-      accessToken: 'BQCmY6mqldPQ0RK1ZbcmbdyaSWOqWVGNEo9C2eycbbv0_tEKoYxyOwf76B6td_02lZ89enPSBsPAtawofMB4-RsTd7rVrA5wgvRkXAUmkef2ffONfWrifCWNd5ktWnO_uQstrmJg3Us-hC2MsfWhJBELbX9dQw',
+      accessToken: '',
       artist: null
     }
   }
