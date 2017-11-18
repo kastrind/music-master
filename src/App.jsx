@@ -10,7 +10,7 @@ class App extends Component {
     super(props);
     this.state = {
       query: '',
-      accessToken: 'BQAtEbz9aTXDM-s5oII7W6WKXp6LHkStkyG4pTnoVlbvIrdICW0CaTNxE1QOnw_kz7y9SMYkzMvudXvxBSvZnFcaawtjL66QiyMXHWHu6Gm0FXQe23hbfUgI_YANwfB4-JoJKeWy6fHFfm1hbYwZ6kTqCvWWtA',
+      accessToken: '',
       artist: null,
       tracks: []
     }
